@@ -1,4 +1,4 @@
-# sleeping-bear
+# SLEEPING-BEAR
 Práctica de Acceso a Datos con Hibernate ORM y Jakarta
 
 El programa presenta una interfaz para elegir entre distintas opciones:
