@@ -1,9 +1,6 @@
 # sleeping-bear
 Práctica de Acceso a Datos con Hibernate ORM y Jakarta
 
-Tal como indica el enunciado tan solo se han expuesto dos _CRUD_s: Publicacion,
-Usuario
-
 El programa presenta una interfaz para elegir entre distintas opciones:
 
 - Añadir (_anyadir [-r]_): permite añadir una publicación. Al utilizar la _flag_
